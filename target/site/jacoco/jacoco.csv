@@ -1,0 +1,6 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+PC2_CalidadDeSoftware,com.mycompany.pc2_calidaddesoftware,TextProcessor,3,38,0,6,1,9,1,4,1,1
+PC2_CalidadDeSoftware,com.mycompany.pc2_calidaddesoftware,Email,8,103,6,22,3,24,6,10,0,2
+PC2_CalidadDeSoftware,com.mycompany.pc2_calidaddesoftware,InventoryManager,5,68,3,9,1,12,3,6,0,3
+PC2_CalidadDeSoftware,com.mycompany.pc2_calidaddesoftware,PasswordValidator,6,101,4,32,2,19,5,15,1,1
+PC2_CalidadDeSoftware,com.mycompany.pc2_calidaddesoftware,PC2_CalidadDeSoftware,7,0,0,0,3,0,2,0,2,0
